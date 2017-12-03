@@ -1,0 +1,86 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 1000px;
+       height: 100%;
+       background: url(oranges.jpg);
+       background-repeat: no-repeat;
+    }
+h1 {
+  font: normal small-caps normal 60px/1.4 Avenir Next Condensed;
+}
+    header {
+        padding-left: 200px;
+        margin-top: 20px;
+        margin-bottom: 4px;
+        text-align: center;
+        font-size: 20px;
+        display: block;
+        font: normal small-caps normal 35px/1.4 MarketPro;
+    }
+    nav {
+        margin-top: -50px;
+        margin-bottom: 50px;
+        float: left;
+        width: 50%;
+        padding-left: 400px;
+        font-size: 20px
+    }
+    nav ul {
+        padding: ;
+        text-align: center;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        text-align: center;font: normal small-caps normal 20px/1.4 MarketPro;
+    }
+    section {
+        margin-top: -50px;
+        padding-left: 50px;
+        width: 50%;
+        display: inline-block;
+        float: center;
+        font: normal small-caps normal 20px/1.4 Avenir Next Condensed;
+}
+  h2 {
+    text-align: center;
+    margin-top: 100px;
+    width: 90%
+}
+    aside {
+        width: 40%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        background: url(mountains.jpg); width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
+
+    footer article {
+      float: left;
+      width: 5%;
+    }
